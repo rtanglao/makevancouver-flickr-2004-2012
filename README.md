@@ -10,9 +10,8 @@ code to make tshirts for makevancouver from flickr-2004-2012
 ```sh
  ./create5x5thumbnails.rb /Users/rtanglao/Dropbox/Public/CCC/DATASETS/09April2012-ROLAND-103K-75x75-FLICKR-PHOTOS/75X75/FILES_SYM_LINKED_SEQUENTIALLY 5x5/
 ```
-
 * ```mkdir 10x10```
-
+* try 10x10 thumbnails because that fits better: 
 ```sh
 ./create10x10thumbnails.rb /Users/rtanglao/Dropbox/Public/CCC/DATASETS/09April2012-ROLAND-103K-75x75-FLICKR-PHOTOS/75X75/FILES_SYM_LINKED_SEQUENTIALLY 10x10/
 ```
